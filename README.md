@@ -56,7 +56,7 @@ This repository presents a comparative deep learning study using different YOLO 
 └── README.md                               # Main project overview
 </pre>
 
-## Tehcnologies Used
+## Technologies Used
 | Tool / Library                           | Description                                                                
 | -----------------------------------------|-------------------------------------------------------------------------- 
 | **Ultralytics YOLOv8, YOLO11n, YOLO12n** | Object detection framework for training, testing, and evaluation tasks.    
